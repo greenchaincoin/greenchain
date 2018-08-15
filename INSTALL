@@ -1,0 +1,9 @@
+Building Greenchain 1.0.0
+
+See doc/readme-qt.rst for instructions on building Greenchain 1.0.0-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Greenchain 1.0.0.
+
+See doc/build-*.txt for instructions on building bitcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Greenchain 1.0.0.
